@@ -117,4 +117,3 @@ python train.py --data train/ --model models/ --log logs/
 * **服务化部署**: HTTP API接口支持，便于集成到其他系统
 * **一键启动**: 简化的部署和启动流程
 
-```
