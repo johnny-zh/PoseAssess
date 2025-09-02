@@ -1,0 +1,217 @@
+2025-08-18 16:22:03,507 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:22:03,514 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:22:03,520 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:22:03,527 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:22:03,528 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:22:03,529 [INFO] 启动 Flask 服务 (http://0.0.0.0:5000)
+2025-08-18 16:22:03,538 [WARNING]  * Debugger is active!
+2025-08-18 16:22:03,544 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:22:38,984 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:22:38,991 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:22:38,996 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:22:39,002 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:22:39,004 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:22:39,005 [INFO] 启动 Flask 服务 (http://0.0.0.0:5000)
+2025-08-18 16:22:39,024 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2025-08-18 16:22:39,024 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-18 16:22:39,026 [INFO]  * Restarting with stat
+2025-08-18 16:22:40,960 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:22:40,966 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:22:40,973 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:22:40,980 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:22:40,981 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:22:40,982 [INFO] 启动 Flask 服务 (http://0.0.0.0:5000)
+2025-08-18 16:22:40,992 [WARNING]  * Debugger is active!
+2025-08-18 16:22:40,998 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:22:51,316 [INFO] 收到视频文件: test_01.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpqube4edt
+2025-08-18 16:22:51,316 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpqube4edt
+2025-08-18 16:23:19,427 [INFO] 起点分数: {'trunk_score': 29, 'hip_score': 32, 'knee_score': 30, 'total_score': 91}
+2025-08-18 16:23:19,427 [INFO] 终点分数: {'trunk_score': 23, 'hip_score': 6, 'knee_score': 22, 'total_score': 51}
+2025-08-18 16:23:19,429 [INFO] 192.168.2.100 - - [18/Aug/2025 16:23:19] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-18 16:25:04,983 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 16:25:05,215 [INFO]  * Restarting with stat
+2025-08-18 16:25:07,158 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:25:07,164 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:25:07,171 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:25:07,177 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:25:07,178 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:25:07,180 [INFO] 动作打分服务已启动 (http://0.0.0.0:5000)
+2025-08-18 16:25:07,189 [WARNING]  * Debugger is active!
+2025-08-18 16:25:07,195 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:25:10,316 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 16:25:10,558 [INFO]  * Restarting with stat
+2025-08-18 16:25:12,500 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:25:12,506 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:25:12,513 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:25:12,519 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:25:12,521 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:25:12,521 [INFO] 动作打分服务已启动
+2025-08-18 16:25:12,531 [WARNING]  * Debugger is active!
+2025-08-18 16:25:12,537 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:25:36,847 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:25:36,854 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:25:36,860 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:25:36,866 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:25:36,867 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:25:36,868 [INFO] 动作打分服务已启动
+2025-08-18 16:25:36,888 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2025-08-18 16:25:36,889 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-18 16:25:36,890 [INFO]  * Restarting with stat
+2025-08-18 16:25:38,850 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:25:38,857 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:25:38,863 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:25:38,870 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:25:38,872 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:25:38,873 [INFO] 动作打分服务已启动
+2025-08-18 16:25:38,882 [WARNING]  * Debugger is active!
+2025-08-18 16:25:38,888 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:43:06,618 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 16:43:06,846 [INFO]  * Restarting with stat
+2025-08-18 16:43:08,814 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:43:08,821 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:43:08,827 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:43:08,834 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:43:08,835 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:43:08,836 [INFO] 动作打分服务已启动
+2025-08-18 16:43:08,846 [WARNING]  * Debugger is active!
+2025-08-18 16:43:08,853 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:43:20,387 [INFO] 收到视频文件: test_04.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpaae8_9gy
+2025-08-18 16:43:20,387 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpaae8_9gy
+2025-08-18 16:44:01,503 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 32, 'knee_score': 28, 'total_score': 86}
+2025-08-18 16:44:01,504 [INFO] 终点分数: {'trunk_score': 1, 'hip_score': 40, 'knee_score': 24, 'total_score': 67}
+2025-08-18 16:44:01,506 [INFO] 192.168.2.100 - - [18/Aug/2025 16:44:01] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-18 16:47:12,183 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 16:47:12,432 [INFO]  * Restarting with stat
+2025-08-18 16:47:14,402 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:47:14,408 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:47:14,414 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:47:14,420 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:47:14,421 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:47:14,422 [INFO] 动作打分服务已启动
+2025-08-18 16:47:14,432 [WARNING]  * Debugger is active!
+2025-08-18 16:47:14,438 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:47:23,103 [INFO] 收到视频文件: test_04.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp638yvfhz
+2025-08-18 16:47:23,103 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp638yvfhz
+2025-08-18 16:48:04,629 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 32, 'knee_score': 28, 'total_score': 86}
+2025-08-18 16:48:04,629 [INFO] 终点分数: {'trunk_score': 1, 'hip_score': 40, 'knee_score': 24, 'total_score': 67}
+2025-08-18 16:48:04,632 [INFO] 192.168.2.100 - - [18/Aug/2025 16:48:04] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-18 16:48:48,316 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 16:48:48,552 [INFO]  * Restarting with stat
+2025-08-18 16:48:50,545 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:48:50,552 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:48:50,558 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:48:50,565 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:48:50,568 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:48:50,569 [INFO] 动作打分服务已启动
+2025-08-18 16:48:50,578 [WARNING]  * Debugger is active!
+2025-08-18 16:48:50,585 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:48:52,665 [INFO] 收到视频文件: test_04.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpqms_ba9x
+2025-08-18 16:48:52,665 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpqms_ba9x
+2025-08-18 16:49:34,476 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 32, 'knee_score': 28, 'total_score': 86}
+2025-08-18 16:49:34,476 [INFO] 终点分数: {'trunk_score': 1, 'hip_score': 40, 'knee_score': 24, 'total_score': 67}
+2025-08-18 16:49:34,478 [INFO] 192.168.2.100 - - [18/Aug/2025 16:49:34] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-18 16:49:53,783 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 16:49:54,025 [INFO]  * Restarting with stat
+2025-08-18 16:49:55,982 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:49:55,988 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:49:55,995 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:49:56,001 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:49:56,002 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:49:56,004 [INFO] 动作打分服务已启动
+2025-08-18 16:49:56,014 [WARNING]  * Debugger is active!
+2025-08-18 16:49:56,020 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 16:50:00,824 [INFO] 收到视频文件: test_04.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp4q3lpw0s
+2025-08-18 16:50:00,824 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp4q3lpw0s
+2025-08-18 16:50:42,332 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 32, 'knee_score': 28, 'total_score': 86}
+2025-08-18 16:50:42,332 [INFO] 终点分数: {'trunk_score': 1, 'hip_score': 40, 'knee_score': 24, 'total_score': 67}
+2025-08-18 16:50:42,334 [INFO] 192.168.2.100 - - [18/Aug/2025 16:50:42] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-18 16:56:40,681 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 16:56:40,915 [INFO]  * Restarting with stat
+2025-08-18 16:56:42,858 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 16:56:42,865 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 16:56:42,870 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 16:56:42,877 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 16:56:42,879 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 16:56:42,879 [INFO] 动作打分服务已启动
+2025-08-18 16:56:42,888 [WARNING]  * Debugger is active!
+2025-08-18 16:56:42,895 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 17:46:50,289 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\train.py', reloading
+2025-08-18 17:46:50,526 [INFO]  * Restarting with stat
+2025-08-18 17:46:52,501 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 17:46:52,507 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 17:46:52,513 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 17:46:52,519 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 17:46:52,520 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 17:46:52,521 [INFO] 动作打分服务已启动
+2025-08-18 17:46:52,531 [WARNING]  * Debugger is active!
+2025-08-18 17:46:52,537 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 17:49:10,632 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api copy.py', reloading
+2025-08-18 17:49:10,857 [INFO]  * Restarting with stat
+2025-08-18 17:49:12,786 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 17:49:12,792 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 17:49:12,798 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 17:49:12,804 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 17:49:12,806 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 17:49:12,807 [INFO] 动作打分服务已启动
+2025-08-18 17:49:12,818 [WARNING]  * Debugger is active!
+2025-08-18 17:49:12,825 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 17:49:55,949 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 17:49:56,184 [INFO]  * Restarting with stat
+2025-08-18 17:49:58,115 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 17:49:58,121 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 17:49:58,127 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 17:49:58,134 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 17:49:58,135 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 17:49:58,136 [INFO] 动作打分服务已启动
+2025-08-18 17:49:58,145 [WARNING]  * Debugger is active!
+2025-08-18 17:49:58,151 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 17:50:06,952 [INFO] 收到视频文件: test_04.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpfslikxek
+2025-08-18 17:50:06,952 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpfslikxek
+2025-08-18 17:50:48,042 [INFO] 192.168.2.100 - - [18/Aug/2025 17:50:48] "[35m[1mPOST /analyze_pose HTTP/1.1[0m" 500 -
+2025-08-18 17:51:07,422 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 17:51:07,674 [INFO]  * Restarting with stat
+2025-08-18 17:51:09,620 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 17:51:09,626 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 17:51:09,632 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 17:51:09,637 [INFO] 加载模型成功: models\total_score_model.pkl
+2025-08-18 17:51:09,639 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 17:51:09,640 [INFO] 动作打分服务已启动
+2025-08-18 17:51:09,649 [WARNING]  * Debugger is active!
+2025-08-18 17:51:09,656 [INFO]  * Debugger PIN: 694-542-620
+2025-08-18 17:55:29,640 [INFO]  * Detected change in 'D:\\workspace\\PoseAssess\\api.py', reloading
+2025-08-18 17:55:29,878 [INFO]  * Restarting with stat
+2025-08-18 17:55:31,893 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 17:55:31,901 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 17:55:31,907 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 17:55:31,909 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 17:55:31,910 [INFO] 动作打分服务已启动
+2025-08-18 17:55:31,911 [INFO] 加载的模型: ['trunk_score', 'hip_score', 'knee_score']
+2025-08-18 17:55:31,911 [INFO] 总分数将通过各部分分数求和计算
+2025-08-18 17:56:25,560 [INFO] 收到视频文件: test_04.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpyg09uqdu.mp4
+2025-08-18 17:58:08,922 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-18 17:58:08,928 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-18 17:58:08,933 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-18 17:58:08,935 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-18 17:58:08,937 [INFO] 动作打分服务已启动
+2025-08-18 17:58:08,937 [INFO] 加载的模型: ['trunk_score', 'hip_score', 'knee_score']
+2025-08-18 17:58:08,937 [INFO] 总分数将通过各部分分数求和计算
+2025-08-18 17:58:08,949 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2025-08-18 17:58:08,949 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-18 17:58:21,792 [INFO] 收到视频文件: test_04.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpnjmuvryl.mp4
+2025-08-18 17:58:21,792 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpnjmuvryl.mp4
+2025-08-18 17:59:02,828 [INFO] 处理了 463 帧
+2025-08-18 17:59:02,836 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 32, 'knee_score': 28, 'total_score': 86}
+2025-08-18 17:59:02,837 [INFO] 终点分数: {'trunk_score': 1, 'hip_score': 40, 'knee_score': 24, 'total_score': 65}
+2025-08-18 17:59:02,837 [INFO] 起点角度 - 躯干: 4.32, 髋: 179.9, 膝: 163.84
+2025-08-18 17:59:02,837 [INFO] 终点角度 - 躯干: 37.52, 髋: 35.14, 膝: 152.82
+2025-08-18 17:59:02,838 [INFO] 最终返回结果: {'start': {'trunk_score': 26, 'hip_score': 32, 'knee_score': 28, 'total_score': 86}, 'end': {'trunk_score': 1, 'hip_score': 40, 'knee_score': 24, 'total_score': 65}}
+2025-08-18 17:59:02,839 [INFO] 192.168.2.100 - - [18/Aug/2025 17:59:02] "POST /analyze_pose HTTP/1.1" 200 -

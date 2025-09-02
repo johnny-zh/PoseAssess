@@ -1,0 +1,12 @@
+2025-08-26 17:03:51,343 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-26 17:03:51,351 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-26 17:03:51,359 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-26 17:03:51,362 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-26 17:03:51,364 [INFO] 动作打分服务已启动
+2025-08-26 17:03:51,364 [INFO] 加载的模型: ['trunk_score', 'hip_score', 'knee_score']
+2025-08-26 17:03:51,365 [INFO] 总分数将通过各部分分数求和计算
+2025-08-26 17:03:51,379 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2025-08-26 17:03:51,380 [INFO] [33mPress CTRL+C to quit[0m

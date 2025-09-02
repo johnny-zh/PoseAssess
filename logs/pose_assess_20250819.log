@@ -1,0 +1,138 @@
+2025-08-19 08:49:21,827 [INFO] 加载模型成功: models\trunk_score_model.pkl
+2025-08-19 08:49:21,834 [INFO] 加载模型成功: models\hip_score_model.pkl
+2025-08-19 08:49:21,841 [INFO] 加载模型成功: models\knee_score_model.pkl
+2025-08-19 08:49:21,843 [INFO] 预处理工具加载完成（scaler, label_encoder, feature_columns）
+2025-08-19 08:49:21,845 [INFO] 动作打分服务已启动
+2025-08-19 08:49:21,845 [INFO] 加载的模型: ['trunk_score', 'hip_score', 'knee_score']
+2025-08-19 08:49:21,845 [INFO] 总分数将通过各部分分数求和计算
+2025-08-19 08:49:21,860 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.100:5000
+2025-08-19 08:49:21,861 [INFO] [33mPress CTRL+C to quit[0m
+2025-08-19 08:49:31,688 [INFO] 收到视频文件: test_04.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpezjoismz.mp4
+2025-08-19 08:49:31,689 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpezjoismz.mp4
+2025-08-19 08:50:13,247 [INFO] 处理了 463 帧
+2025-08-19 08:50:13,259 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 32, 'knee_score': 28, 'total_score': 86}
+2025-08-19 08:50:13,259 [INFO] 终点分数: {'trunk_score': 1, 'hip_score': 40, 'knee_score': 24, 'total_score': 65}
+2025-08-19 08:50:13,260 [INFO] 起点角度 - 躯干: 4.32, 髋: 179.9, 膝: 163.84
+2025-08-19 08:50:13,260 [INFO] 终点角度 - 躯干: 37.52, 髋: 35.14, 膝: 152.82
+2025-08-19 08:50:13,262 [INFO] 最终返回结果: {'start': {'trunk_score': 26, 'hip_score': 32, 'knee_score': 28, 'total_score': 86}, 'end': {'trunk_score': 1, 'hip_score': 40, 'knee_score': 24, 'total_score': 65}}
+2025-08-19 08:50:13,263 [INFO] 192.168.2.100 - - [19/Aug/2025 08:50:13] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:08:20,388 [INFO] 收到视频文件: test_01.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp9tnao78g.mp4
+2025-08-19 09:08:20,389 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp9tnao78g.mp4
+2025-08-19 09:08:47,922 [INFO] 处理了 313 帧
+2025-08-19 09:08:47,930 [INFO] 起点分数: {'trunk_score': 29, 'hip_score': 32, 'knee_score': 30, 'total_score': 91}
+2025-08-19 09:08:47,930 [INFO] 终点分数: {'trunk_score': 23, 'hip_score': 4, 'knee_score': 22, 'total_score': 49}
+2025-08-19 09:08:47,930 [INFO] 起点角度 - 躯干: 0.79, 髋: 179.38, 膝: 178.13
+2025-08-19 09:08:47,931 [INFO] 终点角度 - 躯干: 7.76, 髋: 73.09, 膝: 151.2
+2025-08-19 09:08:47,932 [INFO] 最终返回结果: {'start': {'trunk_score': 29, 'hip_score': 32, 'knee_score': 30, 'total_score': 91}, 'end': {'trunk_score': 23, 'hip_score': 4, 'knee_score': 22, 'total_score': 49}}
+2025-08-19 09:08:47,933 [INFO] 192.168.2.100 - - [19/Aug/2025 09:08:47] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:09:28,313 [INFO] 收到视频文件: test_02.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpo3jh73c6.mp4
+2025-08-19 09:09:28,313 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpo3jh73c6.mp4
+2025-08-19 09:09:53,602 [INFO] 处理了 286 帧
+2025-08-19 09:09:53,610 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 34, 'knee_score': 18, 'total_score': 78}
+2025-08-19 09:09:53,610 [INFO] 终点分数: {'trunk_score': 1, 'hip_score': 40, 'knee_score': 1, 'total_score': 42}
+2025-08-19 09:09:53,610 [INFO] 起点角度 - 躯干: 3.66, 髋: 179.78, 膝: 149.46
+2025-08-19 09:09:53,611 [INFO] 终点角度 - 躯干: 47.39, 髋: 13.58, 膝: 122.72
+2025-08-19 09:09:53,612 [INFO] 最终返回结果: {'start': {'trunk_score': 26, 'hip_score': 34, 'knee_score': 18, 'total_score': 78}, 'end': {'trunk_score': 1, 'hip_score': 40, 'knee_score': 1, 'total_score': 42}}
+2025-08-19 09:09:53,613 [INFO] 192.168.2.100 - - [19/Aug/2025 09:09:53] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:11:33,990 [INFO] 收到视频文件: test_03.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp43i9hjmw.mp4
+2025-08-19 09:11:33,990 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp43i9hjmw.mp4
+2025-08-19 09:12:08,859 [INFO] 处理了 399 帧
+2025-08-19 09:12:08,867 [INFO] 起点分数: {'trunk_score': 22, 'hip_score': 32, 'knee_score': 30, 'total_score': 84}
+2025-08-19 09:12:08,867 [INFO] 终点分数: {'trunk_score': 15, 'hip_score': 12, 'knee_score': 1, 'total_score': 28}
+2025-08-19 09:12:08,867 [INFO] 起点角度 - 躯干: 7.46, 髋: 179.98, 膝: 179.14
+2025-08-19 09:12:08,867 [INFO] 终点角度 - 躯干: 14.79, 髋: 56.11, 膝: 108.68
+2025-08-19 09:12:08,868 [INFO] 最终返回结果: {'start': {'trunk_score': 22, 'hip_score': 32, 'knee_score': 30, 'total_score': 84}, 'end': {'trunk_score': 15, 'hip_score': 12, 'knee_score': 1, 'total_score': 28}}
+2025-08-19 09:12:08,869 [INFO] 192.168.2.100 - - [19/Aug/2025 09:12:08] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:18:34,414 [INFO] 收到视频文件: test_05.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp202975nn.mp4
+2025-08-19 09:18:34,415 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp202975nn.mp4
+2025-08-19 09:20:37,206 [INFO] 处理了 1418 帧
+2025-08-19 09:20:37,213 [INFO] 起点分数: {'trunk_score': 22, 'hip_score': 32, 'knee_score': 28, 'total_score': 82}
+2025-08-19 09:20:37,214 [INFO] 终点分数: {'trunk_score': 20, 'hip_score': 40, 'knee_score': 1, 'total_score': 61}
+2025-08-19 09:20:37,214 [INFO] 起点角度 - 躯干: 7.22, 髋: 179.99, 膝: 164.65
+2025-08-19 09:20:37,214 [INFO] 终点角度 - 躯干: 10.38, 髋: 36.25, 膝: 59.21
+2025-08-19 09:20:37,216 [INFO] 最终返回结果: {'start': {'trunk_score': 22, 'hip_score': 32, 'knee_score': 28, 'total_score': 82}, 'end': {'trunk_score': 20, 'hip_score': 40, 'knee_score': 1, 'total_score': 61}}
+2025-08-19 09:20:37,218 [INFO] 192.168.2.100 - - [19/Aug/2025 09:20:37] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:22:16,117 [INFO] 收到视频文件: test_06.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp3hl6phke.mp4
+2025-08-19 09:22:16,117 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp3hl6phke.mp4
+2025-08-19 09:22:44,120 [INFO] 处理了 321 帧
+2025-08-19 09:22:44,127 [INFO] 起点分数: {'trunk_score': 30, 'hip_score': 32, 'knee_score': 30, 'total_score': 92}
+2025-08-19 09:22:44,127 [INFO] 终点分数: {'trunk_score': 12, 'hip_score': 15, 'knee_score': 1, 'total_score': 28}
+2025-08-19 09:22:44,128 [INFO] 起点角度 - 躯干: 0.45, 髋: 152.11, 膝: 179.19
+2025-08-19 09:22:44,128 [INFO] 终点角度 - 躯干: 17.61, 髋: 42.58, 膝: 128.06
+2025-08-19 09:22:44,129 [INFO] 最终返回结果: {'start': {'trunk_score': 30, 'hip_score': 32, 'knee_score': 30, 'total_score': 92}, 'end': {'trunk_score': 12, 'hip_score': 15, 'knee_score': 1, 'total_score': 28}}
+2025-08-19 09:22:44,130 [INFO] 192.168.2.100 - - [19/Aug/2025 09:22:44] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:23:06,428 [INFO] 收到视频文件: test_07.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpv5iy5_dj.mp4
+2025-08-19 09:23:06,429 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpv5iy5_dj.mp4
+2025-08-19 09:23:35,131 [INFO] 处理了 328 帧
+2025-08-19 09:23:35,138 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 34, 'knee_score': 4, 'total_score': 64}
+2025-08-19 09:23:35,139 [INFO] 终点分数: {'trunk_score': 1, 'hip_score': 39, 'knee_score': 1, 'total_score': 41}
+2025-08-19 09:23:35,139 [INFO] 起点角度 - 躯干: 4.08, 髋: 179.91, 膝: 132.94
+2025-08-19 09:23:35,139 [INFO] 终点角度 - 躯干: 29.37, 髋: 38.24, 膝: 128.67
+2025-08-19 09:23:35,141 [INFO] 最终返回结果: {'start': {'trunk_score': 26, 'hip_score': 34, 'knee_score': 4, 'total_score': 64}, 'end': {'trunk_score': 1, 'hip_score': 39, 'knee_score': 1, 'total_score': 41}}
+2025-08-19 09:23:35,141 [INFO] 192.168.2.100 - - [19/Aug/2025 09:23:35] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:23:52,463 [INFO] 收到视频文件: test_08.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpwej39tmj.mp4
+2025-08-19 09:23:52,463 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpwej39tmj.mp4
+2025-08-19 09:24:12,491 [INFO] 处理了 229 帧
+2025-08-19 09:24:12,499 [INFO] 起点分数: {'trunk_score': 22, 'hip_score': 32, 'knee_score': 30, 'total_score': 84}
+2025-08-19 09:24:12,499 [INFO] 终点分数: {'trunk_score': 7, 'hip_score': 27, 'knee_score': 1, 'total_score': 35}
+2025-08-19 09:24:12,499 [INFO] 起点角度 - 躯干: 7.18, 髋: 179.9, 膝: 178.9
+2025-08-19 09:24:12,500 [INFO] 终点角度 - 躯干: 23.36, 髋: 53.5, 膝: 94.6
+2025-08-19 09:24:12,501 [INFO] 最终返回结果: {'start': {'trunk_score': 22, 'hip_score': 32, 'knee_score': 30, 'total_score': 84}, 'end': {'trunk_score': 7, 'hip_score': 27, 'knee_score': 1, 'total_score': 35}}
+2025-08-19 09:24:12,502 [INFO] 192.168.2.100 - - [19/Aug/2025 09:24:12] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:24:36,589 [INFO] 收到视频文件: test_09.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp2p1c9fqz.mp4
+2025-08-19 09:24:36,589 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp2p1c9fqz.mp4
+2025-08-19 09:24:56,137 [INFO] 处理了 222 帧
+2025-08-19 09:24:56,144 [INFO] 起点分数: {'trunk_score': 24, 'hip_score': 32, 'knee_score': 28, 'total_score': 84}
+2025-08-19 09:24:56,145 [INFO] 终点分数: {'trunk_score': 15, 'hip_score': 1, 'knee_score': 27, 'total_score': 43}
+2025-08-19 09:24:56,145 [INFO] 起点角度 - 躯干: 5.23, 髋: 179.93, 膝: 169.61
+2025-08-19 09:24:56,145 [INFO] 终点角度 - 躯干: 15.29, 髋: 81.75, 膝: 163.43
+2025-08-19 09:24:56,146 [INFO] 最终返回结果: {'start': {'trunk_score': 24, 'hip_score': 32, 'knee_score': 28, 'total_score': 84}, 'end': {'trunk_score': 15, 'hip_score': 1, 'knee_score': 27, 'total_score': 43}}
+2025-08-19 09:24:56,148 [INFO] 192.168.2.100 - - [19/Aug/2025 09:24:56] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:25:53,307 [INFO] 收到视频文件: test_10.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpz9iil4u8.mp4
+2025-08-19 09:25:53,307 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpz9iil4u8.mp4
+2025-08-19 09:26:13,036 [INFO] 处理了 225 帧
+2025-08-19 09:26:13,043 [INFO] 起点分数: {'trunk_score': 29, 'hip_score': 32, 'knee_score': 30, 'total_score': 91}
+2025-08-19 09:26:13,044 [INFO] 终点分数: {'trunk_score': 21, 'hip_score': 8, 'knee_score': 1, 'total_score': 30}
+2025-08-19 09:26:13,044 [INFO] 起点角度 - 躯干: 0.35, 髋: 179.8, 膝: 175.05
+2025-08-19 09:26:13,044 [INFO] 终点角度 - 躯干: 8.4, 髋: 53.55, 膝: 106.39
+2025-08-19 09:26:13,045 [INFO] 最终返回结果: {'start': {'trunk_score': 29, 'hip_score': 32, 'knee_score': 30, 'total_score': 91}, 'end': {'trunk_score': 21, 'hip_score': 8, 'knee_score': 1, 'total_score': 30}}
+2025-08-19 09:26:13,047 [INFO] 192.168.2.100 - - [19/Aug/2025 09:26:13] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:31:17,666 [INFO] 收到视频文件: test_11.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp0hic7yc1.mp4
+2025-08-19 09:31:17,666 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp0hic7yc1.mp4
+2025-08-19 09:31:31,723 [INFO] 处理了 161 帧
+2025-08-19 09:31:31,731 [INFO] 起点分数: {'trunk_score': 29, 'hip_score': 36, 'knee_score': 30, 'total_score': 95}
+2025-08-19 09:31:31,731 [INFO] 终点分数: {'trunk_score': 25, 'hip_score': 1, 'knee_score': 27, 'total_score': 53}
+2025-08-19 09:31:31,731 [INFO] 起点角度 - 躯干: 1.71, 髋: 156.21, 膝: 163.08
+2025-08-19 09:31:31,732 [INFO] 终点角度 - 躯干: 4.14, 髋: 80.83, 膝: 157.56
+2025-08-19 09:31:31,733 [INFO] 最终返回结果: {'start': {'trunk_score': 29, 'hip_score': 36, 'knee_score': 30, 'total_score': 95}, 'end': {'trunk_score': 25, 'hip_score': 1, 'knee_score': 27, 'total_score': 53}}
+2025-08-19 09:31:31,733 [INFO] 192.168.2.100 - - [19/Aug/2025 09:31:31] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:31:57,124 [INFO] 收到视频文件: test_12.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmpjbyar8cy.mp4
+2025-08-19 09:31:57,125 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmpjbyar8cy.mp4
+2025-08-19 09:32:19,738 [INFO] 处理了 259 帧
+2025-08-19 09:32:19,745 [INFO] 起点分数: {'trunk_score': 29, 'hip_score': 35, 'knee_score': 30, 'total_score': 94}
+2025-08-19 09:32:19,745 [INFO] 终点分数: {'trunk_score': 7, 'hip_score': 39, 'knee_score': 5, 'total_score': 51}
+2025-08-19 09:32:19,746 [INFO] 起点角度 - 躯干: 1.22, 髋: 155.4, 膝: 177.14
+2025-08-19 09:32:19,746 [INFO] 终点角度 - 躯干: 23.03, 髋: 40.91, 膝: 134.76
+2025-08-19 09:32:19,747 [INFO] 最终返回结果: {'start': {'trunk_score': 29, 'hip_score': 35, 'knee_score': 30, 'total_score': 94}, 'end': {'trunk_score': 7, 'hip_score': 39, 'knee_score': 5, 'total_score': 51}}
+2025-08-19 09:32:19,748 [INFO] 192.168.2.100 - - [19/Aug/2025 09:32:19] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:33:41,121 [INFO] 收到视频文件: test_13.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmp45i4nofu.mp4
+2025-08-19 09:33:41,121 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmp45i4nofu.mp4
+2025-08-19 09:34:11,070 [INFO] 处理了 343 帧
+2025-08-19 09:34:11,078 [INFO] 起点分数: {'trunk_score': 25, 'hip_score': 32, 'knee_score': 30, 'total_score': 87}
+2025-08-19 09:34:11,078 [INFO] 终点分数: {'trunk_score': 2, 'hip_score': 12, 'knee_score': 30, 'total_score': 44}
+2025-08-19 09:34:11,079 [INFO] 起点角度 - 躯干: 4.23, 髋: 179.95, 膝: 178.98
+2025-08-19 09:34:11,079 [INFO] 终点角度 - 躯干: 28.04, 髋: 68.42, 膝: 163.48
+2025-08-19 09:34:11,080 [INFO] 最终返回结果: {'start': {'trunk_score': 25, 'hip_score': 32, 'knee_score': 30, 'total_score': 87}, 'end': {'trunk_score': 2, 'hip_score': 12, 'knee_score': 30, 'total_score': 44}}
+2025-08-19 09:34:11,081 [INFO] 192.168.2.100 - - [19/Aug/2025 09:34:11] "POST /analyze_pose HTTP/1.1" 200 -
+2025-08-19 09:34:54,193 [INFO] 收到视频文件: test_14.mp4, 保存为临时文件: C:\Users\JSZN\AppData\Local\Temp\tmplf_y77it.mp4
+2025-08-19 09:34:54,193 [INFO] 开始处理视频: C:\Users\JSZN\AppData\Local\Temp\tmplf_y77it.mp4
+2025-08-19 09:35:07,650 [INFO] 处理了 154 帧
+2025-08-19 09:35:07,658 [INFO] 起点分数: {'trunk_score': 26, 'hip_score': 38, 'knee_score': 30, 'total_score': 94}
+2025-08-19 09:35:07,658 [INFO] 终点分数: {'trunk_score': 20, 'hip_score': 30, 'knee_score': 19, 'total_score': 69}
+2025-08-19 09:35:07,658 [INFO] 起点角度 - 躯干: 3.91, 髋: 169.77, 膝: 172.64
+2025-08-19 09:35:07,659 [INFO] 终点角度 - 躯干: 10.73, 髋: 50.17, 膝: 148.74
+2025-08-19 09:35:07,660 [INFO] 最终返回结果: {'start': {'trunk_score': 26, 'hip_score': 38, 'knee_score': 30, 'total_score': 94}, 'end': {'trunk_score': 20, 'hip_score': 30, 'knee_score': 19, 'total_score': 69}}
+2025-08-19 09:35:07,660 [INFO] 192.168.2.100 - - [19/Aug/2025 09:35:07] "POST /analyze_pose HTTP/1.1" 200 -

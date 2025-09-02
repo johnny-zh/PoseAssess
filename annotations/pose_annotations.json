@@ -1,0 +1,5702 @@
+[
+  {
+    "image_path": "begin/1/frame_000121.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000121.jpg",
+    "scores": {
+      "trunk_angle": 173.34,
+      "trunk_score": 1,
+      "hip_angle": 172.63,
+      "hip_score": 37,
+      "knee_angle": 178.15,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000123.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000123.jpg",
+    "scores": {
+      "trunk_angle": 170.66,
+      "trunk_score": 1,
+      "hip_angle": 163.64,
+      "hip_score": 40,
+      "knee_angle": 168.58,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000125.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000125.jpg",
+    "scores": {
+      "trunk_angle": 174.01,
+      "trunk_score": 1,
+      "hip_angle": 159.97,
+      "hip_score": 40,
+      "knee_angle": 168.78,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000126.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000126.jpg",
+    "scores": {
+      "trunk_angle": 177.45,
+      "trunk_score": 1,
+      "hip_angle": 176.75,
+      "hip_score": 33,
+      "knee_angle": 178.83,
+      "knee_score": 30,
+      "total_score": 64
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000127.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000127.jpg",
+    "scores": {
+      "trunk_angle": 174.11,
+      "trunk_score": 1,
+      "hip_angle": 163.16,
+      "hip_score": 40,
+      "knee_angle": 172.59,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000128.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000128.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000129.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000129.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000130.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000130.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000131.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000131.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000132.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000132.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000133.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000133.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000134.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000134.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000135.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000135.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000136.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000136.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000137.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000137.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000138.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000138.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000139.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000139.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000140.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000140.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000141.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000141.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000142.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000142.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000143.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000143.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000144.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000144.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000145.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000145.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000146.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000146.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000147.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000147.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000148.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000148.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000149.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000149.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000150.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000150.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000151.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000151.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/1/frame_000152.jpg",
+    "pose_type": "begin",
+    "video_id": 1,
+    "frame_name": "frame_000152.jpg",
+    "scores": {
+      "trunk_angle": 172.93,
+      "trunk_score": 1,
+      "hip_angle": 172.15,
+      "hip_score": 37,
+      "knee_angle": 179.13,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000057.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000057.jpg",
+    "scores": {
+      "trunk_angle": 4.12,
+      "trunk_score": 26,
+      "hip_angle": 139.5,
+      "hip_score": 20,
+      "knee_angle": 176.51,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000058.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000058.jpg",
+    "scores": {
+      "trunk_angle": 3.22,
+      "trunk_score": 27,
+      "hip_angle": 140.46,
+      "hip_score": 21,
+      "knee_angle": 175.52,
+      "knee_score": 30,
+      "total_score": 78
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000059.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000059.jpg",
+    "scores": {
+      "trunk_angle": 3.5,
+      "trunk_score": 27,
+      "hip_angle": 139.16,
+      "hip_score": 20,
+      "knee_angle": 173.11,
+      "knee_score": 30,
+      "total_score": 77
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000060.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000060.jpg",
+    "scores": {
+      "trunk_angle": 3.69,
+      "trunk_score": 27,
+      "hip_angle": 137.49,
+      "hip_score": 18,
+      "knee_angle": 172.54,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000061.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000061.jpg",
+    "scores": {
+      "trunk_angle": 3.2,
+      "trunk_score": 27,
+      "hip_angle": 138.8,
+      "hip_score": 19,
+      "knee_angle": 174.35,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000062.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000062.jpg",
+    "scores": {
+      "trunk_angle": 2.71,
+      "trunk_score": 28,
+      "hip_angle": 140.33,
+      "hip_score": 21,
+      "knee_angle": 175.5,
+      "knee_score": 30,
+      "total_score": 79
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000063.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000063.jpg",
+    "scores": {
+      "trunk_angle": 2.0,
+      "trunk_score": 29,
+      "hip_angle": 140.44,
+      "hip_score": 21,
+      "knee_angle": 175.15,
+      "knee_score": 30,
+      "total_score": 80
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000064.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000064.jpg",
+    "scores": {
+      "trunk_angle": 2.32,
+      "trunk_score": 28,
+      "hip_angle": 140.14,
+      "hip_score": 21,
+      "knee_angle": 174.81,
+      "knee_score": 30,
+      "total_score": 79
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000065.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000065.jpg",
+    "scores": {
+      "trunk_angle": 1.7,
+      "trunk_score": 29,
+      "hip_angle": 141.05,
+      "hip_score": 22,
+      "knee_angle": 174.82,
+      "knee_score": 30,
+      "total_score": 81
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000066.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000066.jpg",
+    "scores": {
+      "trunk_angle": 1.99,
+      "trunk_score": 29,
+      "hip_angle": 142.43,
+      "hip_score": 23,
+      "knee_angle": 175.47,
+      "knee_score": 30,
+      "total_score": 82
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000067.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000067.jpg",
+    "scores": {
+      "trunk_angle": 2.15,
+      "trunk_score": 28,
+      "hip_angle": 143.4,
+      "hip_score": 24,
+      "knee_angle": 179.23,
+      "knee_score": 30,
+      "total_score": 82
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000068.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000068.jpg",
+    "scores": {
+      "trunk_angle": 0.87,
+      "trunk_score": 30,
+      "hip_angle": 145.38,
+      "hip_score": 26,
+      "knee_angle": 179.64,
+      "knee_score": 30,
+      "total_score": 86
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000069.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000069.jpg",
+    "scores": {
+      "trunk_angle": 1.06,
+      "trunk_score": 29,
+      "hip_angle": 145.13,
+      "hip_score": 26,
+      "knee_angle": 178.14,
+      "knee_score": 30,
+      "total_score": 85
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000070.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000070.jpg",
+    "scores": {
+      "trunk_angle": 1.27,
+      "trunk_score": 29,
+      "hip_angle": 144.66,
+      "hip_score": 25,
+      "knee_angle": 176.74,
+      "knee_score": 30,
+      "total_score": 84
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000071.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000071.jpg",
+    "scores": {
+      "trunk_angle": 0.04,
+      "trunk_score": 30,
+      "hip_angle": 145.85,
+      "hip_score": 26,
+      "knee_angle": 177.09,
+      "knee_score": 30,
+      "total_score": 86
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000072.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000072.jpg",
+    "scores": {
+      "trunk_angle": 0.31,
+      "trunk_score": 30,
+      "hip_angle": 148.53,
+      "hip_score": 29,
+      "knee_angle": 178.28,
+      "knee_score": 30,
+      "total_score": 89
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000073.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000073.jpg",
+    "scores": {
+      "trunk_angle": 0.54,
+      "trunk_score": 30,
+      "hip_angle": 148.75,
+      "hip_score": 29,
+      "knee_angle": 178.96,
+      "knee_score": 30,
+      "total_score": 89
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000074.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000074.jpg",
+    "scores": {
+      "trunk_angle": 0.64,
+      "trunk_score": 30,
+      "hip_angle": 149.97,
+      "hip_score": 30,
+      "knee_angle": 178.18,
+      "knee_score": 30,
+      "total_score": 90
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000075.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000075.jpg",
+    "scores": {
+      "trunk_angle": 0.9,
+      "trunk_score": 30,
+      "hip_angle": 150.38,
+      "hip_score": 31,
+      "knee_angle": 179.78,
+      "knee_score": 30,
+      "total_score": 91
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000076.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000076.jpg",
+    "scores": {
+      "trunk_angle": 0.95,
+      "trunk_score": 30,
+      "hip_angle": 149.59,
+      "hip_score": 30,
+      "knee_angle": 179.99,
+      "knee_score": 30,
+      "total_score": 90
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000077.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000077.jpg",
+    "scores": {
+      "trunk_angle": 1.26,
+      "trunk_score": 29,
+      "hip_angle": 150.87,
+      "hip_score": 31,
+      "knee_angle": 178.38,
+      "knee_score": 30,
+      "total_score": 90
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000078.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000078.jpg",
+    "scores": {
+      "trunk_angle": 2.01,
+      "trunk_score": 28,
+      "hip_angle": 151.37,
+      "hip_score": 32,
+      "knee_angle": 179.86,
+      "knee_score": 30,
+      "total_score": 90
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000079.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000079.jpg",
+    "scores": {
+      "trunk_angle": 2.04,
+      "trunk_score": 28,
+      "hip_angle": 152.1,
+      "hip_score": 33,
+      "knee_angle": 179.9,
+      "knee_score": 30,
+      "total_score": 91
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000080.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000080.jpg",
+    "scores": {
+      "trunk_angle": 1.27,
+      "trunk_score": 29,
+      "hip_angle": 150.23,
+      "hip_score": 31,
+      "knee_angle": 178.05,
+      "knee_score": 30,
+      "total_score": 90
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000081.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000081.jpg",
+    "scores": {
+      "trunk_angle": 1.79,
+      "trunk_score": 29,
+      "hip_angle": 152.69,
+      "hip_score": 33,
+      "knee_angle": 179.35,
+      "knee_score": 30,
+      "total_score": 92
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000082.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000082.jpg",
+    "scores": {
+      "trunk_angle": 2.32,
+      "trunk_score": 28,
+      "hip_angle": 152.85,
+      "hip_score": 33,
+      "knee_angle": 178.12,
+      "knee_score": 30,
+      "total_score": 91
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000083.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000083.jpg",
+    "scores": {
+      "trunk_angle": 2.72,
+      "trunk_score": 28,
+      "hip_angle": 153.4,
+      "hip_score": 34,
+      "knee_angle": 178.42,
+      "knee_score": 30,
+      "total_score": 92
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000084.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000084.jpg",
+    "scores": {
+      "trunk_angle": 2.72,
+      "trunk_score": 28,
+      "hip_angle": 152.49,
+      "hip_score": 33,
+      "knee_angle": 178.3,
+      "knee_score": 30,
+      "total_score": 91
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000085.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000085.jpg",
+    "scores": {
+      "trunk_angle": 3.32,
+      "trunk_score": 27,
+      "hip_angle": 152.35,
+      "hip_score": 33,
+      "knee_angle": 178.51,
+      "knee_score": 30,
+      "total_score": 90
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/2/frame_000086.jpg",
+    "pose_type": "begin",
+    "video_id": 2,
+    "frame_name": "frame_000086.jpg",
+    "scores": {
+      "trunk_angle": 3.38,
+      "trunk_score": 27,
+      "hip_angle": 152.54,
+      "hip_score": 33,
+      "knee_angle": 178.02,
+      "knee_score": 30,
+      "total_score": 90
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000143.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000143.jpg",
+    "scores": {
+      "trunk_angle": 1.51,
+      "trunk_score": 29,
+      "hip_angle": 100.54,
+      "hip_score": 1,
+      "knee_angle": 130.52,
+      "knee_score": 1,
+      "total_score": 31
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000144.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000144.jpg",
+    "scores": {
+      "trunk_angle": 3.64,
+      "trunk_score": 27,
+      "hip_angle": 98.93,
+      "hip_score": 1,
+      "knee_angle": 132.13,
+      "knee_score": 3,
+      "total_score": 31
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000145.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000145.jpg",
+    "scores": {
+      "trunk_angle": 4.45,
+      "trunk_score": 26,
+      "hip_angle": 98.58,
+      "hip_score": 1,
+      "knee_angle": 132.21,
+      "knee_score": 3,
+      "total_score": 30
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000146.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000146.jpg",
+    "scores": {
+      "trunk_angle": 3.52,
+      "trunk_score": 27,
+      "hip_angle": 102.2,
+      "hip_score": 1,
+      "knee_angle": 134.32,
+      "knee_score": 5,
+      "total_score": 33
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000147.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000147.jpg",
+    "scores": {
+      "trunk_angle": 47.36,
+      "trunk_score": 1,
+      "hip_angle": 142.23,
+      "hip_score": 23,
+      "knee_angle": 120.21,
+      "knee_score": 1,
+      "total_score": 25
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000148.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000148.jpg",
+    "scores": {
+      "trunk_angle": 6.81,
+      "trunk_score": 24,
+      "hip_angle": 98.9,
+      "hip_score": 1,
+      "knee_angle": 130.28,
+      "knee_score": 1,
+      "total_score": 26
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000149.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000149.jpg",
+    "scores": {
+      "trunk_angle": 5.96,
+      "trunk_score": 25,
+      "hip_angle": 99.38,
+      "hip_score": 1,
+      "knee_angle": 129.15,
+      "knee_score": 1,
+      "total_score": 27
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000150.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000150.jpg",
+    "scores": {
+      "trunk_angle": 7.71,
+      "trunk_score": 23,
+      "hip_angle": 100.6,
+      "hip_score": 1,
+      "knee_angle": 130.48,
+      "knee_score": 1,
+      "total_score": 25
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000151.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000151.jpg",
+    "scores": {
+      "trunk_angle": 6.53,
+      "trunk_score": 24,
+      "hip_angle": 103.74,
+      "hip_score": 1,
+      "knee_angle": 134.82,
+      "knee_score": 5,
+      "total_score": 30
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000152.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000152.jpg",
+    "scores": {
+      "trunk_angle": 7.36,
+      "trunk_score": 23,
+      "hip_angle": 102.38,
+      "hip_score": 1,
+      "knee_angle": 132.65,
+      "knee_score": 3,
+      "total_score": 27
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000153.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000153.jpg",
+    "scores": {
+      "trunk_angle": 7.0,
+      "trunk_score": 24,
+      "hip_angle": 103.67,
+      "hip_score": 1,
+      "knee_angle": 133.69,
+      "knee_score": 4,
+      "total_score": 29
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000154.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000154.jpg",
+    "scores": {
+      "trunk_angle": 5.13,
+      "trunk_score": 25,
+      "hip_angle": 108.66,
+      "hip_score": 1,
+      "knee_angle": 138.49,
+      "knee_score": 9,
+      "total_score": 35
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000155.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000155.jpg",
+    "scores": {
+      "trunk_angle": 6.8,
+      "trunk_score": 24,
+      "hip_angle": 104.16,
+      "hip_score": 1,
+      "knee_angle": 133.23,
+      "knee_score": 4,
+      "total_score": 29
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000156.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000156.jpg",
+    "scores": {
+      "trunk_angle": 6.33,
+      "trunk_score": 24,
+      "hip_angle": 103.14,
+      "hip_score": 1,
+      "knee_angle": 132.05,
+      "knee_score": 3,
+      "total_score": 28
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000157.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000157.jpg",
+    "scores": {
+      "trunk_angle": 6.65,
+      "trunk_score": 24,
+      "hip_angle": 104.18,
+      "hip_score": 1,
+      "knee_angle": 131.77,
+      "knee_score": 2,
+      "total_score": 27
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000158.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000158.jpg",
+    "scores": {
+      "trunk_angle": 6.61,
+      "trunk_score": 24,
+      "hip_angle": 105.09,
+      "hip_score": 1,
+      "knee_angle": 134.58,
+      "knee_score": 5,
+      "total_score": 30
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000159.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000159.jpg",
+    "scores": {
+      "trunk_angle": 6.62,
+      "trunk_score": 24,
+      "hip_angle": 103.38,
+      "hip_score": 1,
+      "knee_angle": 132.25,
+      "knee_score": 3,
+      "total_score": 28
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000160.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000160.jpg",
+    "scores": {
+      "trunk_angle": 6.65,
+      "trunk_score": 24,
+      "hip_angle": 107.63,
+      "hip_score": 1,
+      "knee_angle": 135.83,
+      "knee_score": 6,
+      "total_score": 31
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000161.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000161.jpg",
+    "scores": {
+      "trunk_angle": 6.12,
+      "trunk_score": 24,
+      "hip_angle": 108.11,
+      "hip_score": 1,
+      "knee_angle": 136.42,
+      "knee_score": 7,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000162.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000162.jpg",
+    "scores": {
+      "trunk_angle": 51.18,
+      "trunk_score": 1,
+      "hip_angle": 172.09,
+      "hip_score": 37,
+      "knee_angle": 179.42,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000163.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000163.jpg",
+    "scores": {
+      "trunk_angle": 61.1,
+      "trunk_score": 1,
+      "hip_angle": 139.5,
+      "hip_score": 20,
+      "knee_angle": 176.45,
+      "knee_score": 30,
+      "total_score": 51
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000164.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000164.jpg",
+    "scores": {
+      "trunk_angle": 58.46,
+      "trunk_score": 1,
+      "hip_angle": 154.84,
+      "hip_score": 35,
+      "knee_angle": 179.2,
+      "knee_score": 30,
+      "total_score": 66
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000165.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000165.jpg",
+    "scores": {
+      "trunk_angle": 60.8,
+      "trunk_score": 1,
+      "hip_angle": 139.95,
+      "hip_score": 20,
+      "knee_angle": 168.0,
+      "knee_score": 30,
+      "total_score": 51
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000166.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000166.jpg",
+    "scores": {
+      "trunk_angle": 56.86,
+      "trunk_score": 1,
+      "hip_angle": 175.15,
+      "hip_score": 34,
+      "knee_angle": 179.43,
+      "knee_score": 30,
+      "total_score": 65
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000167.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000167.jpg",
+    "scores": {
+      "trunk_angle": 1.05,
+      "trunk_score": 29,
+      "hip_angle": 110.16,
+      "hip_score": 1,
+      "knee_angle": 134.5,
+      "knee_score": 5,
+      "total_score": 35
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000168.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000168.jpg",
+    "scores": {
+      "trunk_angle": 0.22,
+      "trunk_score": 30,
+      "hip_angle": 110.54,
+      "hip_score": 1,
+      "knee_angle": 135.56,
+      "knee_score": 6,
+      "total_score": 37
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000169.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000169.jpg",
+    "scores": {
+      "trunk_angle": 2.41,
+      "trunk_score": 28,
+      "hip_angle": 109.82,
+      "hip_score": 1,
+      "knee_angle": 132.41,
+      "knee_score": 3,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000170.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000170.jpg",
+    "scores": {
+      "trunk_angle": 0.02,
+      "trunk_score": 30,
+      "hip_angle": 105.42,
+      "hip_score": 1,
+      "knee_angle": 132.66,
+      "knee_score": 3,
+      "total_score": 34
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000171.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000171.jpg",
+    "scores": {
+      "trunk_angle": 0.02,
+      "trunk_score": 30,
+      "hip_angle": 105.42,
+      "hip_score": 1,
+      "knee_angle": 132.66,
+      "knee_score": 3,
+      "total_score": 34
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/3/frame_000172.jpg",
+    "pose_type": "begin",
+    "video_id": 3,
+    "frame_name": "frame_000172.jpg",
+    "scores": {
+      "trunk_angle": 0.02,
+      "trunk_score": 30,
+      "hip_angle": 105.42,
+      "hip_score": 1,
+      "knee_angle": 132.66,
+      "knee_score": 3,
+      "total_score": 34
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000015.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000015.jpg",
+    "scores": {
+      "trunk_angle": 4.58,
+      "trunk_score": 26,
+      "hip_angle": 178.15,
+      "hip_score": 31,
+      "knee_angle": 162.25,
+      "knee_score": 30,
+      "total_score": 87
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000016.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000016.jpg",
+    "scores": {
+      "trunk_angle": 5.56,
+      "trunk_score": 25,
+      "hip_angle": 178.89,
+      "hip_score": 31,
+      "knee_angle": 162.48,
+      "knee_score": 30,
+      "total_score": 86
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000017.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000017.jpg",
+    "scores": {
+      "trunk_angle": 7.62,
+      "trunk_score": 23,
+      "hip_angle": 176.32,
+      "hip_score": 33,
+      "knee_angle": 152.85,
+      "knee_score": 23,
+      "total_score": 79
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000018.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000018.jpg",
+    "scores": {
+      "trunk_angle": 6.7,
+      "trunk_score": 24,
+      "hip_angle": 172.28,
+      "hip_score": 37,
+      "knee_angle": 152.07,
+      "knee_score": 23,
+      "total_score": 84
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000019.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000019.jpg",
+    "scores": {
+      "trunk_angle": 6.8,
+      "trunk_score": 24,
+      "hip_angle": 170.07,
+      "hip_score": 39,
+      "knee_angle": 147.25,
+      "knee_score": 18,
+      "total_score": 81
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000020.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000020.jpg",
+    "scores": {
+      "trunk_angle": 6.39,
+      "trunk_score": 24,
+      "hip_angle": 163.8,
+      "hip_score": 40,
+      "knee_angle": 138.86,
+      "knee_score": 9,
+      "total_score": 73
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000021.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000021.jpg",
+    "scores": {
+      "trunk_angle": 6.8,
+      "trunk_score": 24,
+      "hip_angle": 159.83,
+      "hip_score": 40,
+      "knee_angle": 135.2,
+      "knee_score": 6,
+      "total_score": 70
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000022.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000022.jpg",
+    "scores": {
+      "trunk_angle": 5.43,
+      "trunk_score": 25,
+      "hip_angle": 156.09,
+      "hip_score": 37,
+      "knee_angle": 140.39,
+      "knee_score": 11,
+      "total_score": 73
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000023.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000023.jpg",
+    "scores": {
+      "trunk_angle": 6.36,
+      "trunk_score": 24,
+      "hip_angle": 155.78,
+      "hip_score": 36,
+      "knee_angle": 139.64,
+      "knee_score": 10,
+      "total_score": 70
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000024.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000024.jpg",
+    "scores": {
+      "trunk_angle": 6.6,
+      "trunk_score": 24,
+      "hip_angle": 147.86,
+      "hip_score": 28,
+      "knee_angle": 127.44,
+      "knee_score": 1,
+      "total_score": 53
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000025.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000025.jpg",
+    "scores": {
+      "trunk_angle": 6.96,
+      "trunk_score": 24,
+      "hip_angle": 144.98,
+      "hip_score": 25,
+      "knee_angle": 131.92,
+      "knee_score": 2,
+      "total_score": 51
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000026.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000026.jpg",
+    "scores": {
+      "trunk_angle": 6.09,
+      "trunk_score": 24,
+      "hip_angle": 140.71,
+      "hip_score": 21,
+      "knee_angle": 133.82,
+      "knee_score": 4,
+      "total_score": 49
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000027.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000027.jpg",
+    "scores": {
+      "trunk_angle": 7.23,
+      "trunk_score": 23,
+      "hip_angle": 141.58,
+      "hip_score": 22,
+      "knee_angle": 130.03,
+      "knee_score": 1,
+      "total_score": 46
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000028.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000028.jpg",
+    "scores": {
+      "trunk_angle": 6.74,
+      "trunk_score": 24,
+      "hip_angle": 138.95,
+      "hip_score": 19,
+      "knee_angle": 133.9,
+      "knee_score": 4,
+      "total_score": 47
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000029.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000029.jpg",
+    "scores": {
+      "trunk_angle": 6.78,
+      "trunk_score": 24,
+      "hip_angle": 134.48,
+      "hip_score": 15,
+      "knee_angle": 130.36,
+      "knee_score": 1,
+      "total_score": 40
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000030.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000030.jpg",
+    "scores": {
+      "trunk_angle": 7.48,
+      "trunk_score": 23,
+      "hip_angle": 136.49,
+      "hip_score": 17,
+      "knee_angle": 135.07,
+      "knee_score": 6,
+      "total_score": 46
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000031.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000031.jpg",
+    "scores": {
+      "trunk_angle": 6.62,
+      "trunk_score": 24,
+      "hip_angle": 136.15,
+      "hip_score": 17,
+      "knee_angle": 138.83,
+      "knee_score": 9,
+      "total_score": 50
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000032.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000032.jpg",
+    "scores": {
+      "trunk_angle": 6.73,
+      "trunk_score": 24,
+      "hip_angle": 133.12,
+      "hip_score": 14,
+      "knee_angle": 139.24,
+      "knee_score": 10,
+      "total_score": 48
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000033.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000033.jpg",
+    "scores": {
+      "trunk_angle": 6.9,
+      "trunk_score": 24,
+      "hip_angle": 133.8,
+      "hip_score": 14,
+      "knee_angle": 145.58,
+      "knee_score": 16,
+      "total_score": 54
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000034.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000034.jpg",
+    "scores": {
+      "trunk_angle": 6.76,
+      "trunk_score": 24,
+      "hip_angle": 134.49,
+      "hip_score": 15,
+      "knee_angle": 147.7,
+      "knee_score": 18,
+      "total_score": 57
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000035.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000035.jpg",
+    "scores": {
+      "trunk_angle": 7.52,
+      "trunk_score": 23,
+      "hip_angle": 139.24,
+      "hip_score": 20,
+      "knee_angle": 149.2,
+      "knee_score": 20,
+      "total_score": 63
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000036.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000036.jpg",
+    "scores": {
+      "trunk_angle": 8.75,
+      "trunk_score": 22,
+      "hip_angle": 136.19,
+      "hip_score": 17,
+      "knee_angle": 143.89,
+      "knee_score": 14,
+      "total_score": 53
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000037.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000037.jpg",
+    "scores": {
+      "trunk_angle": 8.09,
+      "trunk_score": 22,
+      "hip_angle": 142.47,
+      "hip_score": 23,
+      "knee_angle": 144.27,
+      "knee_score": 15,
+      "total_score": 60
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000038.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000038.jpg",
+    "scores": {
+      "trunk_angle": 8.29,
+      "trunk_score": 22,
+      "hip_angle": 140.13,
+      "hip_score": 21,
+      "knee_angle": 140.52,
+      "knee_score": 11,
+      "total_score": 54
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000039.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000039.jpg",
+    "scores": {
+      "trunk_angle": 8.84,
+      "trunk_score": 22,
+      "hip_angle": 142.59,
+      "hip_score": 23,
+      "knee_angle": 140.76,
+      "knee_score": 11,
+      "total_score": 56
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000040.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000040.jpg",
+    "scores": {
+      "trunk_angle": 8.79,
+      "trunk_score": 22,
+      "hip_angle": 148.55,
+      "hip_score": 29,
+      "knee_angle": 148.79,
+      "knee_score": 19,
+      "total_score": 70
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000041.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000041.jpg",
+    "scores": {
+      "trunk_angle": 10.04,
+      "trunk_score": 20,
+      "hip_angle": 146.64,
+      "hip_score": 27,
+      "knee_angle": 138.65,
+      "knee_score": 9,
+      "total_score": 56
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000042.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000042.jpg",
+    "scores": {
+      "trunk_angle": 10.48,
+      "trunk_score": 20,
+      "hip_angle": 151.58,
+      "hip_score": 32,
+      "knee_angle": 145.62,
+      "knee_score": 16,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000043.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000043.jpg",
+    "scores": {
+      "trunk_angle": 10.84,
+      "trunk_score": 20,
+      "hip_angle": 152.32,
+      "hip_score": 33,
+      "knee_angle": 140.06,
+      "knee_score": 11,
+      "total_score": 64
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/4/frame_000044.jpg",
+    "pose_type": "begin",
+    "video_id": 4,
+    "frame_name": "frame_000044.jpg",
+    "scores": {
+      "trunk_angle": 10.75,
+      "trunk_score": 20,
+      "hip_angle": 153.11,
+      "hip_score": 34,
+      "knee_angle": 138.04,
+      "knee_score": 9,
+      "total_score": 63
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000023.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000023.jpg",
+    "scores": {
+      "trunk_angle": 5.12,
+      "trunk_score": 25,
+      "hip_angle": 136.19,
+      "hip_score": 17,
+      "knee_angle": 174.55,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000024.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000024.jpg",
+    "scores": {
+      "trunk_angle": 5.62,
+      "trunk_score": 25,
+      "hip_angle": 135.63,
+      "hip_score": 16,
+      "knee_angle": 176.22,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000025.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000025.jpg",
+    "scores": {
+      "trunk_angle": 5.42,
+      "trunk_score": 25,
+      "hip_angle": 136.28,
+      "hip_score": 17,
+      "knee_angle": 175.36,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000026.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000026.jpg",
+    "scores": {
+      "trunk_angle": 5.55,
+      "trunk_score": 25,
+      "hip_angle": 135.31,
+      "hip_score": 16,
+      "knee_angle": 178.54,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000027.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000027.jpg",
+    "scores": {
+      "trunk_angle": 5.11,
+      "trunk_score": 25,
+      "hip_angle": 135.56,
+      "hip_score": 16,
+      "knee_angle": 176.47,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000028.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000028.jpg",
+    "scores": {
+      "trunk_angle": 5.29,
+      "trunk_score": 25,
+      "hip_angle": 136.19,
+      "hip_score": 17,
+      "knee_angle": 176.37,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000029.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000029.jpg",
+    "scores": {
+      "trunk_angle": 5.05,
+      "trunk_score": 25,
+      "hip_angle": 136.98,
+      "hip_score": 17,
+      "knee_angle": 177.26,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000030.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000030.jpg",
+    "scores": {
+      "trunk_angle": 5.17,
+      "trunk_score": 25,
+      "hip_angle": 137.68,
+      "hip_score": 18,
+      "knee_angle": 177.47,
+      "knee_score": 30,
+      "total_score": 73
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000031.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000031.jpg",
+    "scores": {
+      "trunk_angle": 4.27,
+      "trunk_score": 26,
+      "hip_angle": 136.16,
+      "hip_score": 17,
+      "knee_angle": 174.75,
+      "knee_score": 30,
+      "total_score": 73
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000032.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000032.jpg",
+    "scores": {
+      "trunk_angle": 5.11,
+      "trunk_score": 25,
+      "hip_angle": 138.17,
+      "hip_score": 19,
+      "knee_angle": 176.78,
+      "knee_score": 30,
+      "total_score": 74
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000033.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000033.jpg",
+    "scores": {
+      "trunk_angle": 4.49,
+      "trunk_score": 26,
+      "hip_angle": 138.12,
+      "hip_score": 19,
+      "knee_angle": 177.3,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000034.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000034.jpg",
+    "scores": {
+      "trunk_angle": 4.03,
+      "trunk_score": 26,
+      "hip_angle": 138.48,
+      "hip_score": 19,
+      "knee_angle": 177.23,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000035.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000035.jpg",
+    "scores": {
+      "trunk_angle": 4.13,
+      "trunk_score": 26,
+      "hip_angle": 138.68,
+      "hip_score": 19,
+      "knee_angle": 178.27,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000036.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000036.jpg",
+    "scores": {
+      "trunk_angle": 4.05,
+      "trunk_score": 26,
+      "hip_angle": 137.77,
+      "hip_score": 18,
+      "knee_angle": 179.31,
+      "knee_score": 30,
+      "total_score": 74
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000037.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000037.jpg",
+    "scores": {
+      "trunk_angle": 3.9,
+      "trunk_score": 27,
+      "hip_angle": 138.14,
+      "hip_score": 19,
+      "knee_angle": 177.24,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000038.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000038.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000039.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000039.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000040.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000040.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000041.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000041.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000042.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000042.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000043.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000043.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000044.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000044.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000045.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000045.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000046.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000046.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000047.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000047.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000048.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000048.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000049.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000049.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000050.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000050.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000051.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000051.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "begin/5/frame_000052.jpg",
+    "pose_type": "begin",
+    "video_id": 5,
+    "frame_name": "frame_000052.jpg",
+    "scores": {
+      "trunk_angle": 2.86,
+      "trunk_score": 28,
+      "hip_angle": 137.05,
+      "hip_score": 18,
+      "knee_angle": 177.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000146.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000146.jpg",
+    "scores": {
+      "trunk_angle": 128.54,
+      "trunk_score": 1,
+      "hip_angle": 103.33,
+      "hip_score": 1,
+      "knee_angle": 171.27,
+      "knee_score": 30,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000147.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000147.jpg",
+    "scores": {
+      "trunk_angle": 131.65,
+      "trunk_score": 1,
+      "hip_angle": 146.04,
+      "hip_score": 1,
+      "knee_angle": 131.47,
+      "knee_score": 2,
+      "total_score": 4
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000148.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000148.jpg",
+    "scores": {
+      "trunk_angle": 124.62,
+      "trunk_score": 1,
+      "hip_angle": 150.59,
+      "hip_score": 1,
+      "knee_angle": 125.56,
+      "knee_score": 1,
+      "total_score": 3
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000149.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000149.jpg",
+    "scores": {
+      "trunk_angle": 136.97,
+      "trunk_score": 1,
+      "hip_angle": 153.74,
+      "hip_score": 1,
+      "knee_angle": 116.15,
+      "knee_score": 1,
+      "total_score": 3
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000150.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000150.jpg",
+    "scores": {
+      "trunk_angle": 173.34,
+      "trunk_score": 1,
+      "hip_angle": 58.44,
+      "hip_score": 22,
+      "knee_angle": 168.5,
+      "knee_score": 30,
+      "total_score": 53
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000151.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000151.jpg",
+    "scores": {
+      "trunk_angle": 161.11,
+      "trunk_score": 1,
+      "hip_angle": 43.95,
+      "hip_score": 37,
+      "knee_angle": 169.83,
+      "knee_score": 30,
+      "total_score": 68
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000152.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000152.jpg",
+    "scores": {
+      "trunk_angle": 13.89,
+      "trunk_score": 17,
+      "hip_angle": 73.03,
+      "hip_score": 7,
+      "knee_angle": 105.61,
+      "knee_score": 1,
+      "total_score": 25
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000153.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000153.jpg",
+    "scores": {
+      "trunk_angle": 159.04,
+      "trunk_score": 1,
+      "hip_angle": 38.87,
+      "hip_score": 40,
+      "knee_angle": 171.37,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000154.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000154.jpg",
+    "scores": {
+      "trunk_angle": 14.18,
+      "trunk_score": 16,
+      "hip_angle": 81.15,
+      "hip_score": 1,
+      "knee_angle": 110.13,
+      "knee_score": 1,
+      "total_score": 18
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000155.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000155.jpg",
+    "scores": {
+      "trunk_angle": 13.01,
+      "trunk_score": 17,
+      "hip_angle": 82.74,
+      "hip_score": 1,
+      "knee_angle": 112.08,
+      "knee_score": 1,
+      "total_score": 19
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000156.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000156.jpg",
+    "scores": {
+      "trunk_angle": 13.89,
+      "trunk_score": 17,
+      "hip_angle": 84.44,
+      "hip_score": 1,
+      "knee_angle": 110.96,
+      "knee_score": 1,
+      "total_score": 19
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000157.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000157.jpg",
+    "scores": {
+      "trunk_angle": 13.65,
+      "trunk_score": 17,
+      "hip_angle": 88.44,
+      "hip_score": 1,
+      "knee_angle": 111.4,
+      "knee_score": 1,
+      "total_score": 19
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000158.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000158.jpg",
+    "scores": {
+      "trunk_angle": 13.46,
+      "trunk_score": 17,
+      "hip_angle": 92.62,
+      "hip_score": 1,
+      "knee_angle": 116.62,
+      "knee_score": 1,
+      "total_score": 19
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000159.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000159.jpg",
+    "scores": {
+      "trunk_angle": 13.66,
+      "trunk_score": 17,
+      "hip_angle": 97.09,
+      "hip_score": 1,
+      "knee_angle": 120.97,
+      "knee_score": 1,
+      "total_score": 19
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000160.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000160.jpg",
+    "scores": {
+      "trunk_angle": 13.92,
+      "trunk_score": 17,
+      "hip_angle": 104.26,
+      "hip_score": 1,
+      "knee_angle": 129.1,
+      "knee_score": 1,
+      "total_score": 19
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000161.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000161.jpg",
+    "scores": {
+      "trunk_angle": 13.69,
+      "trunk_score": 17,
+      "hip_angle": 109.8,
+      "hip_score": 1,
+      "knee_angle": 137.78,
+      "knee_score": 8,
+      "total_score": 26
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000162.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000162.jpg",
+    "scores": {
+      "trunk_angle": 13.31,
+      "trunk_score": 17,
+      "hip_angle": 113.36,
+      "hip_score": 1,
+      "knee_angle": 141.33,
+      "knee_score": 12,
+      "total_score": 30
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000163.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000163.jpg",
+    "scores": {
+      "trunk_angle": 14.15,
+      "trunk_score": 16,
+      "hip_angle": 117.69,
+      "hip_score": 1,
+      "knee_angle": 144.49,
+      "knee_score": 15,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000164.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000164.jpg",
+    "scores": {
+      "trunk_angle": 13.68,
+      "trunk_score": 17,
+      "hip_angle": 122.62,
+      "hip_score": 1,
+      "knee_angle": 152.36,
+      "knee_score": 23,
+      "total_score": 41
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000165.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000165.jpg",
+    "scores": {
+      "trunk_angle": 12.75,
+      "trunk_score": 18,
+      "hip_angle": 129.42,
+      "hip_score": 1,
+      "knee_angle": 160.04,
+      "knee_score": 30,
+      "total_score": 49
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000166.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000166.jpg",
+    "scores": {
+      "trunk_angle": 12.12,
+      "trunk_score": 18,
+      "hip_angle": 133.5,
+      "hip_score": 1,
+      "knee_angle": 165.69,
+      "knee_score": 30,
+      "total_score": 49
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000167.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000167.jpg",
+    "scores": {
+      "trunk_angle": 12.35,
+      "trunk_score": 18,
+      "hip_angle": 137.04,
+      "hip_score": 1,
+      "knee_angle": 169.82,
+      "knee_score": 30,
+      "total_score": 49
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000168.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000168.jpg",
+    "scores": {
+      "trunk_angle": 164.09,
+      "trunk_score": 1,
+      "hip_angle": 160.12,
+      "hip_score": 1,
+      "knee_angle": 179.32,
+      "knee_score": 30,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000169.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000169.jpg",
+    "scores": {
+      "trunk_angle": 9.38,
+      "trunk_score": 21,
+      "hip_angle": 137.76,
+      "hip_score": 1,
+      "knee_angle": 173.01,
+      "knee_score": 30,
+      "total_score": 52
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000170.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000170.jpg",
+    "scores": {
+      "trunk_angle": 7.92,
+      "trunk_score": 23,
+      "hip_angle": 137.24,
+      "hip_score": 1,
+      "knee_angle": 171.47,
+      "knee_score": 30,
+      "total_score": 54
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000171.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000171.jpg",
+    "scores": {
+      "trunk_angle": 159.58,
+      "trunk_score": 1,
+      "hip_angle": 154.78,
+      "hip_score": 1,
+      "knee_angle": 176.15,
+      "knee_score": 30,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000172.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000172.jpg",
+    "scores": {
+      "trunk_angle": 7.97,
+      "trunk_score": 23,
+      "hip_angle": 143.99,
+      "hip_score": 1,
+      "knee_angle": 176.88,
+      "knee_score": 30,
+      "total_score": 54
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000173.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000173.jpg",
+    "scores": {
+      "trunk_angle": 170.38,
+      "trunk_score": 1,
+      "hip_angle": 169.61,
+      "hip_score": 1,
+      "knee_angle": 170.28,
+      "knee_score": 30,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000174.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000174.jpg",
+    "scores": {
+      "trunk_angle": 153.78,
+      "trunk_score": 1,
+      "hip_angle": 157.69,
+      "hip_score": 1,
+      "knee_angle": 174.19,
+      "knee_score": 30,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/1/frame_000175.jpg",
+    "pose_type": "end",
+    "video_id": 1,
+    "frame_name": "frame_000175.jpg",
+    "scores": {
+      "trunk_angle": 168.97,
+      "trunk_score": 1,
+      "hip_angle": 164.86,
+      "hip_score": 1,
+      "knee_angle": 179.17,
+      "knee_score": 30,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000179.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000179.jpg",
+    "scores": {
+      "trunk_angle": 30.84,
+      "trunk_score": 1,
+      "hip_angle": 38.31,
+      "hip_score": 40,
+      "knee_angle": 166.32,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000180.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000180.jpg",
+    "scores": {
+      "trunk_angle": 28.7,
+      "trunk_score": 2,
+      "hip_angle": 37.86,
+      "hip_score": 40,
+      "knee_angle": 167.5,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000181.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000181.jpg",
+    "scores": {
+      "trunk_angle": 28.71,
+      "trunk_score": 2,
+      "hip_angle": 38.66,
+      "hip_score": 40,
+      "knee_angle": 167.63,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000182.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000182.jpg",
+    "scores": {
+      "trunk_angle": 28.66,
+      "trunk_score": 2,
+      "hip_angle": 39.26,
+      "hip_score": 40,
+      "knee_angle": 168.5,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000183.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000183.jpg",
+    "scores": {
+      "trunk_angle": 30.37,
+      "trunk_score": 1,
+      "hip_angle": 41.24,
+      "hip_score": 39,
+      "knee_angle": 165.66,
+      "knee_score": 30,
+      "total_score": 70
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000184.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000184.jpg",
+    "scores": {
+      "trunk_angle": 29.62,
+      "trunk_score": 1,
+      "hip_angle": 40.83,
+      "hip_score": 40,
+      "knee_angle": 162.57,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000185.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000185.jpg",
+    "scores": {
+      "trunk_angle": 28.34,
+      "trunk_score": 2,
+      "hip_angle": 40.74,
+      "hip_score": 40,
+      "knee_angle": 164.3,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000186.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000186.jpg",
+    "scores": {
+      "trunk_angle": 27.66,
+      "trunk_score": 3,
+      "hip_angle": 39.93,
+      "hip_score": 40,
+      "knee_angle": 163.66,
+      "knee_score": 30,
+      "total_score": 73
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000187.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000187.jpg",
+    "scores": {
+      "trunk_angle": 26.84,
+      "trunk_score": 4,
+      "hip_angle": 41.52,
+      "hip_score": 39,
+      "knee_angle": 165.69,
+      "knee_score": 30,
+      "total_score": 73
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000188.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000188.jpg",
+    "scores": {
+      "trunk_angle": 25.35,
+      "trunk_score": 5,
+      "hip_angle": 40.84,
+      "hip_score": 40,
+      "knee_angle": 166.3,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000189.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000189.jpg",
+    "scores": {
+      "trunk_angle": 25.41,
+      "trunk_score": 5,
+      "hip_angle": 40.55,
+      "hip_score": 40,
+      "knee_angle": 165.16,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000190.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000190.jpg",
+    "scores": {
+      "trunk_angle": 24.07,
+      "trunk_score": 6,
+      "hip_angle": 40.52,
+      "hip_score": 40,
+      "knee_angle": 166.6,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000191.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000191.jpg",
+    "scores": {
+      "trunk_angle": 21.9,
+      "trunk_score": 9,
+      "hip_angle": 40.76,
+      "hip_score": 40,
+      "knee_angle": 168.75,
+      "knee_score": 30,
+      "total_score": 79
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000192.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000192.jpg",
+    "scores": {
+      "trunk_angle": 21.7,
+      "trunk_score": 9,
+      "hip_angle": 40.91,
+      "hip_score": 40,
+      "knee_angle": 165.89,
+      "knee_score": 30,
+      "total_score": 79
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000193.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000193.jpg",
+    "scores": {
+      "trunk_angle": 21.63,
+      "trunk_score": 9,
+      "hip_angle": 39.75,
+      "hip_score": 40,
+      "knee_angle": 165.36,
+      "knee_score": 30,
+      "total_score": 79
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000194.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000194.jpg",
+    "scores": {
+      "trunk_angle": 20.14,
+      "trunk_score": 10,
+      "hip_angle": 41.54,
+      "hip_score": 39,
+      "knee_angle": 165.27,
+      "knee_score": 30,
+      "total_score": 79
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000195.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000195.jpg",
+    "scores": {
+      "trunk_angle": 19.08,
+      "trunk_score": 11,
+      "hip_angle": 42.21,
+      "hip_score": 38,
+      "knee_angle": 168.21,
+      "knee_score": 30,
+      "total_score": 79
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000196.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000196.jpg",
+    "scores": {
+      "trunk_angle": 18.89,
+      "trunk_score": 12,
+      "hip_angle": 41.21,
+      "hip_score": 39,
+      "knee_angle": 163.94,
+      "knee_score": 30,
+      "total_score": 81
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000197.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000197.jpg",
+    "scores": {
+      "trunk_angle": 19.64,
+      "trunk_score": 11,
+      "hip_angle": 43.15,
+      "hip_score": 37,
+      "knee_angle": 164.09,
+      "knee_score": 30,
+      "total_score": 78
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000198.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000198.jpg",
+    "scores": {
+      "trunk_angle": 19.95,
+      "trunk_score": 11,
+      "hip_angle": 45.57,
+      "hip_score": 35,
+      "knee_angle": 167.24,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000199.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000199.jpg",
+    "scores": {
+      "trunk_angle": 19.87,
+      "trunk_score": 11,
+      "hip_angle": 46.04,
+      "hip_score": 34,
+      "knee_angle": 167.48,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000200.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000200.jpg",
+    "scores": {
+      "trunk_angle": 19.82,
+      "trunk_score": 11,
+      "hip_angle": 45.79,
+      "hip_score": 35,
+      "knee_angle": 166.93,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000201.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000201.jpg",
+    "scores": {
+      "trunk_angle": 19.82,
+      "trunk_score": 11,
+      "hip_angle": 45.82,
+      "hip_score": 35,
+      "knee_angle": 167.0,
+      "knee_score": 30,
+      "total_score": 76
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000202.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000202.jpg",
+    "scores": {
+      "trunk_angle": 19.2,
+      "trunk_score": 11,
+      "hip_angle": 46.39,
+      "hip_score": 34,
+      "knee_angle": 165.85,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000203.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000203.jpg",
+    "scores": {
+      "trunk_angle": 19.77,
+      "trunk_score": 11,
+      "hip_angle": 46.89,
+      "hip_score": 34,
+      "knee_angle": 167.74,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000204.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000204.jpg",
+    "scores": {
+      "trunk_angle": 19.37,
+      "trunk_score": 11,
+      "hip_angle": 47.67,
+      "hip_score": 33,
+      "knee_angle": 166.6,
+      "knee_score": 30,
+      "total_score": 74
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000205.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000205.jpg",
+    "scores": {
+      "trunk_angle": 18.9,
+      "trunk_score": 12,
+      "hip_angle": 47.75,
+      "hip_score": 33,
+      "knee_angle": 167.04,
+      "knee_score": 30,
+      "total_score": 75
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000206.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000206.jpg",
+    "scores": {
+      "trunk_angle": 20.17,
+      "trunk_score": 10,
+      "hip_angle": 48.23,
+      "hip_score": 32,
+      "knee_angle": 167.04,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000207.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000207.jpg",
+    "scores": {
+      "trunk_angle": 20.97,
+      "trunk_score": 10,
+      "hip_angle": 48.15,
+      "hip_score": 32,
+      "knee_angle": 169.04,
+      "knee_score": 30,
+      "total_score": 72
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/2/frame_000208.jpg",
+    "pose_type": "end",
+    "video_id": 2,
+    "frame_name": "frame_000208.jpg",
+    "scores": {
+      "trunk_angle": 21.4,
+      "trunk_score": 9,
+      "hip_angle": 48.37,
+      "hip_score": 32,
+      "knee_angle": 168.7,
+      "knee_score": 30,
+      "total_score": 71
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000196.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000196.jpg",
+    "scores": {
+      "trunk_angle": 76.93,
+      "trunk_score": 1,
+      "hip_angle": 94.05,
+      "hip_score": 1,
+      "knee_angle": 134.55,
+      "knee_score": 5,
+      "total_score": 7
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000197.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000197.jpg",
+    "scores": {
+      "trunk_angle": 57.35,
+      "trunk_score": 1,
+      "hip_angle": 59.45,
+      "hip_score": 21,
+      "knee_angle": 119.41,
+      "knee_score": 1,
+      "total_score": 23
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000198.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000198.jpg",
+    "scores": {
+      "trunk_angle": 52.71,
+      "trunk_score": 1,
+      "hip_angle": 52.66,
+      "hip_score": 28,
+      "knee_angle": 112.89,
+      "knee_score": 1,
+      "total_score": 30
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000199.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000199.jpg",
+    "scores": {
+      "trunk_angle": 41.27,
+      "trunk_score": 1,
+      "hip_angle": 48.23,
+      "hip_score": 32,
+      "knee_angle": 123.51,
+      "knee_score": 1,
+      "total_score": 34
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000200.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000200.jpg",
+    "scores": {
+      "trunk_angle": 36.85,
+      "trunk_score": 1,
+      "hip_angle": 47.31,
+      "hip_score": 33,
+      "knee_angle": 128.11,
+      "knee_score": 1,
+      "total_score": 35
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000201.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000201.jpg",
+    "scores": {
+      "trunk_angle": 42.37,
+      "trunk_score": 1,
+      "hip_angle": 49.05,
+      "hip_score": 31,
+      "knee_angle": 119.67,
+      "knee_score": 1,
+      "total_score": 33
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000202.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000202.jpg",
+    "scores": {
+      "trunk_angle": 46.27,
+      "trunk_score": 1,
+      "hip_angle": 50.82,
+      "hip_score": 30,
+      "knee_angle": 113.23,
+      "knee_score": 1,
+      "total_score": 32
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000203.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000203.jpg",
+    "scores": {
+      "trunk_angle": 35.38,
+      "trunk_score": 1,
+      "hip_angle": 49.24,
+      "hip_score": 31,
+      "knee_angle": 128.48,
+      "knee_score": 1,
+      "total_score": 33
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000204.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000204.jpg",
+    "scores": {
+      "trunk_angle": 30.83,
+      "trunk_score": 1,
+      "hip_angle": 45.69,
+      "hip_score": 35,
+      "knee_angle": 125.49,
+      "knee_score": 1,
+      "total_score": 37
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000205.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000205.jpg",
+    "scores": {
+      "trunk_angle": 30.02,
+      "trunk_score": 1,
+      "hip_angle": 43.75,
+      "hip_score": 37,
+      "knee_angle": 125.91,
+      "knee_score": 1,
+      "total_score": 39
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000206.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000206.jpg",
+    "scores": {
+      "trunk_angle": 27.85,
+      "trunk_score": 3,
+      "hip_angle": 42.93,
+      "hip_score": 38,
+      "knee_angle": 124.82,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000207.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000207.jpg",
+    "scores": {
+      "trunk_angle": 27.71,
+      "trunk_score": 3,
+      "hip_angle": 43.64,
+      "hip_score": 37,
+      "knee_angle": 126.38,
+      "knee_score": 1,
+      "total_score": 41
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000208.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000208.jpg",
+    "scores": {
+      "trunk_angle": 26.13,
+      "trunk_score": 4,
+      "hip_angle": 45.73,
+      "hip_score": 35,
+      "knee_angle": 127.58,
+      "knee_score": 1,
+      "total_score": 40
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000209.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000209.jpg",
+    "scores": {
+      "trunk_angle": 26.27,
+      "trunk_score": 4,
+      "hip_angle": 46.77,
+      "hip_score": 34,
+      "knee_angle": 131.59,
+      "knee_score": 2,
+      "total_score": 40
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000210.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000210.jpg",
+    "scores": {
+      "trunk_angle": 24.7,
+      "trunk_score": 6,
+      "hip_angle": 44.02,
+      "hip_score": 36,
+      "knee_angle": 128.3,
+      "knee_score": 1,
+      "total_score": 43
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000211.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000211.jpg",
+    "scores": {
+      "trunk_angle": 24.8,
+      "trunk_score": 6,
+      "hip_angle": 43.62,
+      "hip_score": 37,
+      "knee_angle": 129.58,
+      "knee_score": 1,
+      "total_score": 44
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000212.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000212.jpg",
+    "scores": {
+      "trunk_angle": 22.34,
+      "trunk_score": 8,
+      "hip_angle": 43.45,
+      "hip_score": 37,
+      "knee_angle": 128.2,
+      "knee_score": 1,
+      "total_score": 46
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000213.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000213.jpg",
+    "scores": {
+      "trunk_angle": 24.21,
+      "trunk_score": 6,
+      "hip_angle": 43.68,
+      "hip_score": 37,
+      "knee_angle": 133.68,
+      "knee_score": 4,
+      "total_score": 47
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000214.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000214.jpg",
+    "scores": {
+      "trunk_angle": 20.15,
+      "trunk_score": 10,
+      "hip_angle": 39.84,
+      "hip_score": 40,
+      "knee_angle": 123.56,
+      "knee_score": 1,
+      "total_score": 51
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000215.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000215.jpg",
+    "scores": {
+      "trunk_angle": 21.95,
+      "trunk_score": 9,
+      "hip_angle": 46.21,
+      "hip_score": 34,
+      "knee_angle": 137.33,
+      "knee_score": 8,
+      "total_score": 51
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000216.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000216.jpg",
+    "scores": {
+      "trunk_angle": 20.74,
+      "trunk_score": 10,
+      "hip_angle": 46.89,
+      "hip_score": 34,
+      "knee_angle": 138.81,
+      "knee_score": 9,
+      "total_score": 53
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000217.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000217.jpg",
+    "scores": {
+      "trunk_angle": 19.34,
+      "trunk_score": 11,
+      "hip_angle": 44.4,
+      "hip_score": 36,
+      "knee_angle": 135.27,
+      "knee_score": 6,
+      "total_score": 53
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000218.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000218.jpg",
+    "scores": {
+      "trunk_angle": 21.88,
+      "trunk_score": 9,
+      "hip_angle": 48.2,
+      "hip_score": 32,
+      "knee_angle": 129.91,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000219.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000219.jpg",
+    "scores": {
+      "trunk_angle": 20.59,
+      "trunk_score": 10,
+      "hip_angle": 48.36,
+      "hip_score": 32,
+      "knee_angle": 130.18,
+      "knee_score": 1,
+      "total_score": 43
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000220.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000220.jpg",
+    "scores": {
+      "trunk_angle": 22.58,
+      "trunk_score": 8,
+      "hip_angle": 48.45,
+      "hip_score": 32,
+      "knee_angle": 125.05,
+      "knee_score": 1,
+      "total_score": 41
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000221.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000221.jpg",
+    "scores": {
+      "trunk_angle": 21.37,
+      "trunk_score": 9,
+      "hip_angle": 48.13,
+      "hip_score": 32,
+      "knee_angle": 130.19,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000222.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000222.jpg",
+    "scores": {
+      "trunk_angle": 21.45,
+      "trunk_score": 9,
+      "hip_angle": 46.57,
+      "hip_score": 34,
+      "knee_angle": 130.01,
+      "knee_score": 1,
+      "total_score": 44
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000223.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000223.jpg",
+    "scores": {
+      "trunk_angle": 19.49,
+      "trunk_score": 11,
+      "hip_angle": 49.56,
+      "hip_score": 31,
+      "knee_angle": 141.18,
+      "knee_score": 12,
+      "total_score": 54
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000224.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000224.jpg",
+    "scores": {
+      "trunk_angle": 19.07,
+      "trunk_score": 11,
+      "hip_angle": 48.96,
+      "hip_score": 32,
+      "knee_angle": 137.56,
+      "knee_score": 8,
+      "total_score": 51
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/3/frame_000225.jpg",
+    "pose_type": "end",
+    "video_id": 3,
+    "frame_name": "frame_000225.jpg",
+    "scores": {
+      "trunk_angle": 19.37,
+      "trunk_score": 11,
+      "hip_angle": 47.34,
+      "hip_score": 33,
+      "knee_angle": 140.03,
+      "knee_score": 11,
+      "total_score": 55
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000130.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000130.jpg",
+    "scores": {
+      "trunk_angle": 67.8,
+      "trunk_score": 1,
+      "hip_angle": 27.33,
+      "hip_score": 40,
+      "knee_angle": 109.27,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000131.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000131.jpg",
+    "scores": {
+      "trunk_angle": 67.19,
+      "trunk_score": 1,
+      "hip_angle": 25.83,
+      "hip_score": 40,
+      "knee_angle": 108.94,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000132.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000132.jpg",
+    "scores": {
+      "trunk_angle": 65.43,
+      "trunk_score": 1,
+      "hip_angle": 23.34,
+      "hip_score": 40,
+      "knee_angle": 107.28,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000133.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000133.jpg",
+    "scores": {
+      "trunk_angle": 63.72,
+      "trunk_score": 1,
+      "hip_angle": 23.69,
+      "hip_score": 40,
+      "knee_angle": 107.32,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000134.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000134.jpg",
+    "scores": {
+      "trunk_angle": 63.97,
+      "trunk_score": 1,
+      "hip_angle": 22.35,
+      "hip_score": 40,
+      "knee_angle": 104.25,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000135.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000135.jpg",
+    "scores": {
+      "trunk_angle": 62.83,
+      "trunk_score": 1,
+      "hip_angle": 22.66,
+      "hip_score": 40,
+      "knee_angle": 102.45,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000136.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000136.jpg",
+    "scores": {
+      "trunk_angle": 63.18,
+      "trunk_score": 1,
+      "hip_angle": 24.41,
+      "hip_score": 40,
+      "knee_angle": 107.83,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000137.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000137.jpg",
+    "scores": {
+      "trunk_angle": 61.69,
+      "trunk_score": 1,
+      "hip_angle": 24.96,
+      "hip_score": 40,
+      "knee_angle": 117.22,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000138.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000138.jpg",
+    "scores": {
+      "trunk_angle": 59.52,
+      "trunk_score": 1,
+      "hip_angle": 22.29,
+      "hip_score": 40,
+      "knee_angle": 105.99,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000139.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000139.jpg",
+    "scores": {
+      "trunk_angle": 58.03,
+      "trunk_score": 1,
+      "hip_angle": 23.42,
+      "hip_score": 40,
+      "knee_angle": 111.25,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000140.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000140.jpg",
+    "scores": {
+      "trunk_angle": 61.49,
+      "trunk_score": 1,
+      "hip_angle": 22.76,
+      "hip_score": 40,
+      "knee_angle": 107.51,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000141.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000141.jpg",
+    "scores": {
+      "trunk_angle": 60.42,
+      "trunk_score": 1,
+      "hip_angle": 24.5,
+      "hip_score": 40,
+      "knee_angle": 106.25,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000142.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000142.jpg",
+    "scores": {
+      "trunk_angle": 60.48,
+      "trunk_score": 1,
+      "hip_angle": 23.8,
+      "hip_score": 40,
+      "knee_angle": 107.86,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000143.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000143.jpg",
+    "scores": {
+      "trunk_angle": 60.44,
+      "trunk_score": 1,
+      "hip_angle": 25.37,
+      "hip_score": 40,
+      "knee_angle": 112.1,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000144.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000144.jpg",
+    "scores": {
+      "trunk_angle": 59.94,
+      "trunk_score": 1,
+      "hip_angle": 25.95,
+      "hip_score": 40,
+      "knee_angle": 112.46,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000145.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000145.jpg",
+    "scores": {
+      "trunk_angle": 60.95,
+      "trunk_score": 1,
+      "hip_angle": 25.64,
+      "hip_score": 40,
+      "knee_angle": 111.28,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000146.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000146.jpg",
+    "scores": {
+      "trunk_angle": 60.36,
+      "trunk_score": 1,
+      "hip_angle": 25.71,
+      "hip_score": 40,
+      "knee_angle": 110.04,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000147.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000147.jpg",
+    "scores": {
+      "trunk_angle": 60.72,
+      "trunk_score": 1,
+      "hip_angle": 25.03,
+      "hip_score": 40,
+      "knee_angle": 108.94,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000148.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000148.jpg",
+    "scores": {
+      "trunk_angle": 60.94,
+      "trunk_score": 1,
+      "hip_angle": 22.32,
+      "hip_score": 40,
+      "knee_angle": 108.1,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000149.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000149.jpg",
+    "scores": {
+      "trunk_angle": 59.19,
+      "trunk_score": 1,
+      "hip_angle": 23.88,
+      "hip_score": 40,
+      "knee_angle": 107.06,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000150.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000150.jpg",
+    "scores": {
+      "trunk_angle": 57.5,
+      "trunk_score": 1,
+      "hip_angle": 25.01,
+      "hip_score": 40,
+      "knee_angle": 110.17,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000151.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000151.jpg",
+    "scores": {
+      "trunk_angle": 57.0,
+      "trunk_score": 1,
+      "hip_angle": 23.85,
+      "hip_score": 40,
+      "knee_angle": 107.93,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000152.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000152.jpg",
+    "scores": {
+      "trunk_angle": 55.05,
+      "trunk_score": 1,
+      "hip_angle": 23.33,
+      "hip_score": 40,
+      "knee_angle": 105.52,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000153.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000153.jpg",
+    "scores": {
+      "trunk_angle": 55.04,
+      "trunk_score": 1,
+      "hip_angle": 23.8,
+      "hip_score": 40,
+      "knee_angle": 104.15,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000154.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000154.jpg",
+    "scores": {
+      "trunk_angle": 55.04,
+      "trunk_score": 1,
+      "hip_angle": 23.8,
+      "hip_score": 40,
+      "knee_angle": 104.15,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000155.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000155.jpg",
+    "scores": {
+      "trunk_angle": 55.04,
+      "trunk_score": 1,
+      "hip_angle": 23.8,
+      "hip_score": 40,
+      "knee_angle": 104.15,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000156.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000156.jpg",
+    "scores": {
+      "trunk_angle": 55.04,
+      "trunk_score": 1,
+      "hip_angle": 23.8,
+      "hip_score": 40,
+      "knee_angle": 104.15,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000157.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000157.jpg",
+    "scores": {
+      "trunk_angle": 55.04,
+      "trunk_score": 1,
+      "hip_angle": 23.8,
+      "hip_score": 40,
+      "knee_angle": 104.15,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000158.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000158.jpg",
+    "scores": {
+      "trunk_angle": 55.04,
+      "trunk_score": 1,
+      "hip_angle": 23.8,
+      "hip_score": 40,
+      "knee_angle": 104.15,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/4/frame_000159.jpg",
+    "pose_type": "end",
+    "video_id": 4,
+    "frame_name": "frame_000159.jpg",
+    "scores": {
+      "trunk_angle": 55.04,
+      "trunk_score": 1,
+      "hip_angle": 23.8,
+      "hip_score": 40,
+      "knee_angle": 104.15,
+      "knee_score": 1,
+      "total_score": 42
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000066.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000066.jpg",
+    "scores": {
+      "trunk_angle": 11.17,
+      "trunk_score": 19,
+      "hip_angle": 87.97,
+      "hip_score": 1,
+      "knee_angle": 164.34,
+      "knee_score": 30,
+      "total_score": 50
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000067.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000067.jpg",
+    "scores": {
+      "trunk_angle": 11.34,
+      "trunk_score": 19,
+      "hip_angle": 88.22,
+      "hip_score": 1,
+      "knee_angle": 165.55,
+      "knee_score": 30,
+      "total_score": 50
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000068.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000068.jpg",
+    "scores": {
+      "trunk_angle": 12.79,
+      "trunk_score": 18,
+      "hip_angle": 88.49,
+      "hip_score": 1,
+      "knee_angle": 165.09,
+      "knee_score": 30,
+      "total_score": 49
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000069.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000069.jpg",
+    "scores": {
+      "trunk_angle": 13.2,
+      "trunk_score": 17,
+      "hip_angle": 89.71,
+      "hip_score": 1,
+      "knee_angle": 167.42,
+      "knee_score": 30,
+      "total_score": 48
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000070.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000070.jpg",
+    "scores": {
+      "trunk_angle": 15.3,
+      "trunk_score": 15,
+      "hip_angle": 91.4,
+      "hip_score": 1,
+      "knee_angle": 167.76,
+      "knee_score": 30,
+      "total_score": 46
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000071.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000071.jpg",
+    "scores": {
+      "trunk_angle": 15.83,
+      "trunk_score": 15,
+      "hip_angle": 91.0,
+      "hip_score": 1,
+      "knee_angle": 167.11,
+      "knee_score": 30,
+      "total_score": 46
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000072.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000072.jpg",
+    "scores": {
+      "trunk_angle": 15.93,
+      "trunk_score": 15,
+      "hip_angle": 93.09,
+      "hip_score": 1,
+      "knee_angle": 172.36,
+      "knee_score": 30,
+      "total_score": 46
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000073.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000073.jpg",
+    "scores": {
+      "trunk_angle": 17.34,
+      "trunk_score": 13,
+      "hip_angle": 94.48,
+      "hip_score": 1,
+      "knee_angle": 170.64,
+      "knee_score": 30,
+      "total_score": 44
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000074.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000074.jpg",
+    "scores": {
+      "trunk_angle": 17.19,
+      "trunk_score": 13,
+      "hip_angle": 93.38,
+      "hip_score": 1,
+      "knee_angle": 172.3,
+      "knee_score": 30,
+      "total_score": 44
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000075.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000075.jpg",
+    "scores": {
+      "trunk_angle": 18.81,
+      "trunk_score": 12,
+      "hip_angle": 93.43,
+      "hip_score": 1,
+      "knee_angle": 173.95,
+      "knee_score": 30,
+      "total_score": 43
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000076.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000076.jpg",
+    "scores": {
+      "trunk_angle": 18.05,
+      "trunk_score": 12,
+      "hip_angle": 95.89,
+      "hip_score": 1,
+      "knee_angle": 176.6,
+      "knee_score": 30,
+      "total_score": 43
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000077.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000077.jpg",
+    "scores": {
+      "trunk_angle": 17.33,
+      "trunk_score": 13,
+      "hip_angle": 95.49,
+      "hip_score": 1,
+      "knee_angle": 178.76,
+      "knee_score": 30,
+      "total_score": 44
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000078.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000078.jpg",
+    "scores": {
+      "trunk_angle": 16.94,
+      "trunk_score": 14,
+      "hip_angle": 95.16,
+      "hip_score": 1,
+      "knee_angle": 178.89,
+      "knee_score": 30,
+      "total_score": 45
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000079.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000079.jpg",
+    "scores": {
+      "trunk_angle": 16.98,
+      "trunk_score": 14,
+      "hip_angle": 92.9,
+      "hip_score": 1,
+      "knee_angle": 175.59,
+      "knee_score": 30,
+      "total_score": 45
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000080.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000080.jpg",
+    "scores": {
+      "trunk_angle": 17.3,
+      "trunk_score": 13,
+      "hip_angle": 97.65,
+      "hip_score": 1,
+      "knee_angle": 179.89,
+      "knee_score": 30,
+      "total_score": 44
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000081.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000081.jpg",
+    "scores": {
+      "trunk_angle": 17.38,
+      "trunk_score": 13,
+      "hip_angle": 96.57,
+      "hip_score": 1,
+      "knee_angle": 179.93,
+      "knee_score": 30,
+      "total_score": 44
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000082.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000082.jpg",
+    "scores": {
+      "trunk_angle": 14.99,
+      "trunk_score": 16,
+      "hip_angle": 94.3,
+      "hip_score": 1,
+      "knee_angle": 179.85,
+      "knee_score": 30,
+      "total_score": 47
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000083.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000083.jpg",
+    "scores": {
+      "trunk_angle": 15.17,
+      "trunk_score": 15,
+      "hip_angle": 98.53,
+      "hip_score": 1,
+      "knee_angle": 177.69,
+      "knee_score": 30,
+      "total_score": 46
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000084.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000084.jpg",
+    "scores": {
+      "trunk_angle": 14.46,
+      "trunk_score": 16,
+      "hip_angle": 96.72,
+      "hip_score": 1,
+      "knee_angle": 177.86,
+      "knee_score": 30,
+      "total_score": 47
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000085.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000085.jpg",
+    "scores": {
+      "trunk_angle": 14.74,
+      "trunk_score": 16,
+      "hip_angle": 96.04,
+      "hip_score": 1,
+      "knee_angle": 179.55,
+      "knee_score": 30,
+      "total_score": 47
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000086.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000086.jpg",
+    "scores": {
+      "trunk_angle": 13.53,
+      "trunk_score": 17,
+      "hip_angle": 95.16,
+      "hip_score": 1,
+      "knee_angle": 179.84,
+      "knee_score": 30,
+      "total_score": 48
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000087.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000087.jpg",
+    "scores": {
+      "trunk_angle": 10.62,
+      "trunk_score": 20,
+      "hip_angle": 90.11,
+      "hip_score": 1,
+      "knee_angle": 178.48,
+      "knee_score": 30,
+      "total_score": 51
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000088.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000088.jpg",
+    "scores": {
+      "trunk_angle": 11.05,
+      "trunk_score": 19,
+      "hip_angle": 95.81,
+      "hip_score": 1,
+      "knee_angle": 179.64,
+      "knee_score": 30,
+      "total_score": 50
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000089.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000089.jpg",
+    "scores": {
+      "trunk_angle": 12.14,
+      "trunk_score": 18,
+      "hip_angle": 98.43,
+      "hip_score": 1,
+      "knee_angle": 178.87,
+      "knee_score": 30,
+      "total_score": 49
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000090.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000090.jpg",
+    "scores": {
+      "trunk_angle": 10.29,
+      "trunk_score": 20,
+      "hip_angle": 95.73,
+      "hip_score": 1,
+      "knee_angle": 178.9,
+      "knee_score": 30,
+      "total_score": 51
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000091.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000091.jpg",
+    "scores": {
+      "trunk_angle": 11.18,
+      "trunk_score": 19,
+      "hip_angle": 96.69,
+      "hip_score": 1,
+      "knee_angle": 179.64,
+      "knee_score": 30,
+      "total_score": 50
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000092.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000092.jpg",
+    "scores": {
+      "trunk_angle": 9.94,
+      "trunk_score": 21,
+      "hip_angle": 96.84,
+      "hip_score": 1,
+      "knee_angle": 179.65,
+      "knee_score": 30,
+      "total_score": 52
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000093.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000093.jpg",
+    "scores": {
+      "trunk_angle": 8.51,
+      "trunk_score": 22,
+      "hip_angle": 99.75,
+      "hip_score": 1,
+      "knee_angle": 179.98,
+      "knee_score": 30,
+      "total_score": 53
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000094.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000094.jpg",
+    "scores": {
+      "trunk_angle": 8.6,
+      "trunk_score": 22,
+      "hip_angle": 101.73,
+      "hip_score": 1,
+      "knee_angle": 179.58,
+      "knee_score": 30,
+      "total_score": 53
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  },
+  {
+    "image_path": "end/5/frame_000095.jpg",
+    "pose_type": "end",
+    "video_id": 5,
+    "frame_name": "frame_000095.jpg",
+    "scores": {
+      "trunk_angle": 9.34,
+      "trunk_score": 21,
+      "hip_angle": 105.86,
+      "hip_score": 1,
+      "knee_angle": 179.75,
+      "knee_score": 30,
+      "total_score": 52
+    },
+    "image_dimensions": {
+      "width": 720,
+      "height": 1280
+    }
+  }
+]
